@@ -41,8 +41,8 @@ Check out my site for contact details
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dan2380&count_private=true&show_icons=true&include_all_commits=true)
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=dan2380&count_private=true&show_icons=true&include_all_commits=true)
 
-![Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dan2380)
+[Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dan2380)
 
 </details>
