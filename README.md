@@ -2,7 +2,7 @@
 
 - &#128205; From Bellevue, WA. USA
 - &#127891; _Graduated_ from University of Washington
-- &#128187; **Tech lover**, **enjoy learning about new possibilities of AI.**.
+- &#128187; **Tech lover**, enjoy learning about new possibilities of **AI.**.
 - &#128214; Life Long learner.
 - &#128187; Currently learning **PyTorch**.
 - &#127941; 2023 Goal: Become a **fullstack** or **Machine Learning Engineer** + create several independent projects to learn more about **Machine Learning**.
@@ -33,7 +33,7 @@ Check out my site for contact details
 
 <br>
 
-[![](https://img.shields.io/badge/Md.%20Jahidul%20Islam%20Sujan-MrDevelopeJIS-blue?logo=github&logoColor=white)](https://github.com/topics/mrdeveloperjis)
+[![](https://img.shields.io/badge/%20Dan%20Wang%20-blue?logo=github&logoColor=white)](https://github.com/topics/dan2380)
 
 <details>
 
