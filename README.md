@@ -5,7 +5,7 @@
 - &#128187; **Tech lover**, enjoy learning about new possibilities of **AI.**.
 - &#128214; Life Long learner.
 - &#128187; Currently learning **PyTorch**.
-- &#127941; 2023 Goal: Become a **fullstack** or **Machine Learning Engineer** + create several independent projects to learn more about **Machine Learning**.
+- &#127941; 2023 Goal: Become a **Fullstack** or **Machine Learning Engineer** + create several independent projects to learn more about **Machine Learning**.
 - &#128165; Want to contribute more to **Open Source** projects.
 
 <br><br>
