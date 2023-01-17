@@ -14,14 +14,19 @@
 
 <br>
 
+<i><img title="Python" alt="Python" src="assets/skills/python.svg"/></i>
 <i><img title="Java" alt="Java" src="assets/skills/java.svg"/></i>
+<i><img title="c++" alt="c++" src="assets/skills/c++.svg"/></i>
 <i><img title="HTML" alt="HTML" src="assets/skills/html5.svg"/></i>
 <i><img title="CSS" alt="CSS" src="assets/skills/css3.svg"/></i>
 <i><img title="Bootstrap" alt="Bootstrap" src="assets/skills/bootstrap.svg"/></i>
 <i><img title="JavaScript" alt="JavaScript" src="assets/skills/javascript.svg"/></i>
-<i><img title="SQL" alt="sql" src="assets/skills/database.svg"/></i>
+<i><img title="AWS" alt="AWS" src="assets/skills/aws.svg"/></i>
+<i><img title="docker" alt="docker" src="assets/skills/docker.svg"/></i>
+<i><img title="postgressql" alt="postgressql" src="assets/skills/postgressql.svg"/></i>
 <i><img title="Git" alt="Git" src="assets/skills/git.svg"/></i>
 <i><img title="GitHub" alt="GitHub" src="assets/skills/github.svg"/></i>
+<i><img title="SQL" alt="sql" src="assets/skills/database.svg"/></i>
 
 <br>
 
