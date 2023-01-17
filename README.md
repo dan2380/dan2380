@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**dan2380/dan2380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there  I'm Dan
+📍 From Bellevue, Washington
+🎓 Graduated from University of Washington
+💻 Tech lover, enjoy learning about new possibilities of AI.
+📖 Life Long learner.
+💻 Currently learning PyTorch.
+🏅 2023 Goal: Become a fullstack or Machine Learning Engineer + create several independent projects to learn more about Machine Learning.
+💥 Want to contribute more to Open Source projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚩 My skills 
+
+Python Java C++ Javascript HTML CSS Git AWS Docker Postgres Apache Airflow
+
+
+🚩 Stay connected 
+
+Check out my site for contact details
+
+
+
+
+
+If you like my wok, feel free to ⭐ the repositories!
