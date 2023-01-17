@@ -35,14 +35,10 @@ Check out my site for contact details
 
 [![](https://img.shields.io/badge/%20Dan%20Wang%20-blue?logo=github&logoColor=white)](https://github.com/topics/dan2380)
 
-<details>
-
 <summary>If you like my work, feel free to &#11088; the repositories!</summary>
 
 <br>
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=dan2380&count_private=true&show_icons=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dan2380&count_private=true&show_icons=true&include_all_commits=true)
 
-[Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dan2380)
-
-</details>
+![Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dan2380)
