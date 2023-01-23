@@ -1,4 +1,15 @@
-<h1 align="center">Hi there <img src="assets/gif/hello.gif" width="25px" height="25px"> I'm Dan</h1>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dhimant1990/count.svg" />
+</p>
+
+<h1 align="center">
+  <img src="assets/gif/hello.gif" alt="hello-gif" height="150px">
+  <br>
+  <img src="assets/gif/wave.gif" alt="waving hand" width="30px">I'm <a href="https://www.linkedin.com/in/dan-wang-bb2b66127/">Dan Wang</a>
+</h1>
+
+<img align="right" alt="GIF" src="assets/coding.gif" width="300px" height="250px"/>
 
 - &#128205; From Bellevue, WA. USA
 - &#127891; _Graduated_ from University of Washington
