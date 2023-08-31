@@ -6,7 +6,7 @@
 <h1 align="center">
   <img src="assets/gif/hello.gif" alt="hello-gif" height="150px">
   <br>
-  <img src="assets/gif/wave.gif" alt="waving hand" width="30px">I'm <a href="https://www.linkedin.com/in/dan-wang-bb2b66127/">Dan Wang</a>
+  <img src="assets/gif/wave.gif" alt="waving hand" width="30px">I'm <a href="https://www.linkedin.com/in/dan-wang-bb2b66127/">Daniel Wang</a>
 </h1>
 
 <img align="right" alt="GIF" src="assets/coding.gif" width="300px" height="250px"/>
