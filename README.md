@@ -49,7 +49,7 @@ Check out my site for contact details! https://dan2380.github.io/
 
 <br>
 
-[![](https://img.shields.io/badge/Dan%20Wang-dan2380-blue?logo=github&logoColor=white)](https://github.com/topics/dan2380)
+[![](https://img.shields.io/badge/Daniel%20Wang-dan2380-blue?logo=github&logoColor=white)](https://github.com/topics/dan2380)
 
 <summary>If you like my work, feel free to &#11088; the repositories!</summary>
 
